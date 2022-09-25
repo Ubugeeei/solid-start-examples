@@ -36,6 +36,7 @@ export default function Root() {
 						<a href="/lifecycle">Lifecycle</a>
 						<a href="/store">Store</a>
 						<a href="/context">Context</a>
+						<a href="/for">For</a>
 						<Routes>
 							<FileRoutes />
 						</Routes>
