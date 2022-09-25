@@ -32,6 +32,7 @@ export default function Root() {
 						<a href="/signal-option">SignalOption</a>
 						<a href="/effect">Effect</a>
 						<a href="/memo">Memo</a>
+						<a href="/resource">Resource</a>
 						<Routes>
 							<FileRoutes />
 						</Routes>
