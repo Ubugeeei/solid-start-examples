@@ -38,6 +38,7 @@ export default function Root() {
 						<a href="/context">Context</a>
 						<a href="/for">For</a>
 						<a href="/show">Show</a>
+						<a href="/switch">Switch</a>
 						<Routes>
 							<FileRoutes />
 						</Routes>
