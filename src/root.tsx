@@ -35,7 +35,7 @@ export default function Root() {
 						<a href="/resource">Resource</a>
 						<a href="/lifecycle">Lifecycle</a>
 						<a href="/store">Store</a>
-
+						<a href="/context">Context</a>
 						<Routes>
 							<FileRoutes />
 						</Routes>
