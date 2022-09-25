@@ -33,6 +33,7 @@ export default function Root() {
 						<a href="/effect">Effect</a>
 						<a href="/memo">Memo</a>
 						<a href="/resource">Resource</a>
+						<a href="/lifecycle">Lifecycle</a>
 						<Routes>
 							<FileRoutes />
 						</Routes>
