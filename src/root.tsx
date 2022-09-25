@@ -25,7 +25,7 @@ export default function Root() {
         <Suspense>
           <ErrorBoundary>
             <a href="/">Index</a>
-            <a href="/about">About</a>
+            <a href="/signal">Signal</a>
             <Routes>
               <FileRoutes />
             </Routes>
