@@ -5,7 +5,7 @@ const Store = () => {
 	const [count, setCount] = createStore({ state: 0 });
 
 	return (
-		<div>
+		<main>
 			<h1>Store</h1>
 			<p>Count: {count.state}</p>
 			<button onClick={() => setCount("state", (c) => c + 1)}>
@@ -13,7 +13,7 @@ const Store = () => {
 			</button>
 
 			<StoreChild count={count} />
-		</div>
+		</main>
 	);
 };
 
